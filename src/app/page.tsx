@@ -32,6 +32,8 @@ export default function LandingPage() {
         { name: "Home", id: "hero" },
         { name: "Signature", id: "signature" },
         { name: "Menu", id: "menu" },
+        { name: "FAQ", id: "faq" },
+        { name: "Team", id: "team" },
         { name: "Kontakt", id: "contact" },
       ]}
       brandName="Zen Fusion"
@@ -89,7 +91,7 @@ export default function LandingPage() {
         { id: "img3", name: "Sushi Bar", role: "Kreativiteti", imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-professional-chef-wear-black-gloves-making-sushi-rolls-restaurant-kitchen-japanese-traditional-food_627829-6726.jpg" },
       ]}
       title="Ambient Modern"
-      description="Një hapësirë e qetë dhe minimalist për një drekë apo darkë të paharrueshme."
+      description="Një hapësirës e qetë dhe minimalist për një drekë apo darkë të paharrueshme."
     />
   </div>
 
